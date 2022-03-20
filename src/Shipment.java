@@ -10,7 +10,7 @@ public class Shipment {
      * 3 = delivered
      * 4 = exception
      */
-    private Recipient receipient;
+    private Recipient recipient;
     private Sender sender;
     private Address deliveryAddress;
 }
